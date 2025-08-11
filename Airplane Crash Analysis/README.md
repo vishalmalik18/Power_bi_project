@@ -31,6 +31,6 @@ This project provides a detailed analysis of airplane crash data to uncover tren
 ---
 
 ## 👤 Author
-**Vishal Malik**
-🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
 🔗 [GitHub](https://github.com/vishalmalik18)
